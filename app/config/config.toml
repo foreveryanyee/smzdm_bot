@@ -1,8 +1,6 @@
 [user.A]
 ANDROID_COOKIE = "z_me=;is_dark_mode=0;pid=n5XhIQfAIWv%2Bj4EUVVTRDoqhTqH0tku5UD7Cqj1G%2FIZzbfQDpoHn1A%3D%3D;device_type=XiaomiRedmi+8A;z_dr=30c9971c5f289a09034c8795f4ea8b90;sessionID=890e8ea0e8134bf701315ea5c363c0b6.1726982632791;basic_v=0;client_id=890e8ea0e8134bf701315ea5c363c0b6.1726982632373;network=1;device_system_version=10;partner_id=20;device_s=30c9971c5f289a09034c8795f4ea8b90;smzdm_version=11.0.33;device_smzdm=android;apk_partner_name=xiaomi;device_id=30c9971c5f289a09034c8795f4ea8b90;device_push=0;f=android;apk_partner_id=20;session_id=890e8ea0e8134bf701315ea5c363c0b6.1726982632791;device_smzdm_version=11.0.33;device_rid=890e8ea0e8134bf701315ea5c363c0b6;z_ai=100946600841628942c313847c207e66;v=11.0.33;new_device_id=30c9971c5f289a09034c8795f4ea8b90;device_recfeed_setting=%7B%22haojia_recfeed_switch%22%3A%221%22%2C%22homepage_sort_switch%22%3A%221%22%2C%22other_recfeed_switch%22%3A%221%22%2C%22shequ_recfeed_switch%22%3A%221%22%7D;device_smzdm_version_code=1043;partner_name=b_xmly14;ab_test=z6;active_time=1726982636;is_new_user=1;login=1;smzdm_id=3774568744;register_time=1442937385;sess=BB-hWToLPgVqv45W%2FrN%2Fgqkmljni5YixeDixauXqPz434WLB6iaFe68RhHV%2F6R5MELDhKRrStbjoxMuA54T7b8lZVHur64%3D;last_article_info=%7B%22article_id%22%3A%22126331409%22%2C%22article_channel_id%22%3A%221%22%7D"
 
-[user.B]
-ANDROID_COOKIE = ""
 
 [notify]
 PUSH_PLUS_TOKEN = ""
